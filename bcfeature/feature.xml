@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="bcfeature"
-      label="Bytecode plugin"
+      label="Bytecode Show"
       version="0.1.0"
       provider-name="Jaromír Hřibal">
 
@@ -46,7 +46,7 @@ from .java file
          unpack="false"/>
 
    <plugin
-         id="asm"
+         id="asmlib"
          download-size="0"
          install-size="0"
          version="0.0.0"
