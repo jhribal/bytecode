@@ -25,7 +25,7 @@ following steps:
 1. Clone this repository
 	
 	```git
-	git clone https://github.com/jhribal/bytecode.git
+	git clone https://github.com/jhribal/bytecodeshow.git
 	```
 	
 2. Run `init.sh` script (you need to have [gradle](https://gradle.org/ "https://gradle.org/") on your $PATH)
