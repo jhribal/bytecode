@@ -1,0 +1,9 @@
+[submodule "asmlib"]
+	path = asmlib
+	url = https://github.com/jhribal/asmlib.git
+[submodule "bclib"]
+	path = bclib
+	url = https://github.com/jhribal/bclib.git
+[submodule "bcplugin"]
+	path = bcplugin
+	url = https://github.com/jhribal/bcplugin.git
